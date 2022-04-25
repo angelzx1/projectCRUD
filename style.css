@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+#necessaries{
+    background-color: #2b0821;
+    color:white;
+    padding:1%;
+    
+}
+#apresentation{
+    background-color: #411034;
+    color:white;
+    display: flex;
+}
+#imgaccount{
+    width:27%;
+    height:25%;
+}
+.campodebusca{
+    width:50%;
+    height:10%;
+    margin-left:25%;
+    margin-top:2%;
+}
+.accountfoc{
+    margin-left: 10%;
+    background-color: #411034;
+}
+    
+.categories{
+    background-color: #581947;
+    padding: 1%;
+    color:white;
+}
+
+.vendasPrincipais{
+    background-color: #1b1a1b;
+    padding: 1%;
+    color:white;
+}
+
+ul{
+    display:flex;
+    margin-left: 22%;
+    
+}
+li {
+    list-style-type: none;
+    margin-left: 5%;
+  }
